@@ -1,4 +1,0 @@
-name,age,salary
-vamsi,23,2000
-chan,24,4000
-hello,21,200
